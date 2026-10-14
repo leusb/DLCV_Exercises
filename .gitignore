@@ -1,0 +1,9 @@
+.venv/
+
+# Python caches and notebook checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS metadata
+.DS_Store

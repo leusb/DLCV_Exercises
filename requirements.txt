@@ -1,0 +1,22 @@
+# Core scientific Python stack
+numpy
+scipy
+scikit-learn
+
+# Images and visualisation
+matplotlib
+opencv-python
+Pillow
+seaborn
+
+# Deep learning exercises
+torch
+torchvision
+tqdm
+
+# Notebook support
+jupyter
+ipykernel
+
+# Graph neural network worksheet
+networkx
